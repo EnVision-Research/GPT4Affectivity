@@ -45,7 +45,7 @@ Here are some interesting findings from our report:
 - **Tool call and self-correction**: GPT-4V can invoke tools and self-correct errors.
 
    <div style="text-align:center;">
-  <img src="/Fig/rPPG.png" style="width:95%;" />
+  <img src="/Fig/rPPG.png" style="width:55%;" />
   </div>
   
 
