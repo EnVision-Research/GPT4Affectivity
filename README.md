@@ -1,6 +1,8 @@
 # GPT4Affectivity
 
-<img src="Fig/Emotion.png" title="" alt="Head pic" width="100%">
+<div style="text-align:center;">
+  <img src="/Fig/Emotion.png" style="width:95%;" />
+</div>
 
 [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2311.05332)
 ![GitHub stars](https://img.shields.io/github/stars/LuPaoPao/GPT4Affectivity?color=yellow)
@@ -26,18 +28,26 @@ We have provided many interesting examples of different affective computing task
 Here are some interesting findings from our report:
 
 - **Accurate action unit recognition**: GPT-4V is very accurate for recognizing facial action units.
+
+  <div style="text-align:center;">
+  <img src="/Fig/Au.png" style="width:95%;" />
+  </div>
   
-  <img src="./Fig/Au.png" title="" alt="Accurate action unit recognition" width="65%">
 
 
 - **Inaccurate emotion recognition**: GPT-4V is very inaccurate for subjective expressions.
 
-  <img src="./assets/ER.png" title="" alt="Corner cases" width="65%">
+    <div style="text-align:center;">
+  <img src="/Fig/ER.png" style="width:95%;" />
+  </div>
   
 
 - **Tool call and self-correction**: GPT-4V can invoke tools and self-correct errors.
 
-  <img src="./assets/rPPG.png" title="" alt="Act as driver" width="65%">
+   <div style="text-align:center;">
+  <img src="/Fig/rPPG.png" style="width:95%;" />
+  </div>
+  
 
 
 
