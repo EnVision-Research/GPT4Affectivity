@@ -4,7 +4,7 @@
   <img src="/Fig/Emotion.png" style="width:95%;" />
 </div>
 
-[![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2311.05332)
+[![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2403.05916)
 ![GitHub stars](https://img.shields.io/github/stars/LuPaoPao/GPT4Affectivity?color=yellow)
 ![GitHub license](https://img.shields.io/github/license/LuPaoPao/GPT4Affectivity)
 
