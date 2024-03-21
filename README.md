@@ -1,9 +1,5 @@
 # GPT4Affectivity
 
-<div style="text-align:center;">
-  <img src="/Fig/Emotion.png" style="width:95%;" />
-</div>
-
 [![Static Badge](https://img.shields.io/badge/Arxiv-pdf-8A2BE2?logo=arxiv)](https://arxiv.org/abs/2403.05916)
 ![GitHub stars](https://img.shields.io/github/stars/LuPaoPao/GPT4Affectivity?color=yellow)
 
@@ -62,3 +58,7 @@ If our repository accelerates your research, please use the following citation:
       journal={arXiv preprint arXiv:2403.05916},
 }
 ```
+
+<div style="text-align:center;">
+  <img src="/Fig/Emotion.png" style="width:100%;" />
+</div>
